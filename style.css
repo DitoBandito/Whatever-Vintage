@@ -1,0 +1,203 @@
+body {
+
+ background-color: #cccccc;
+ background-size: cover;
+ position: relative;
+ bottom: -100px;
+ margin-top: -100px;
+ 
+}
+header{
+	border: 0.5px solid white;
+	background-color:;
+	margin: cover;
+}
+main{
+	margin-top: 123px;
+	margin-bottom: 123px;
+	border:;
+	background-color: ;	
+}
+.main2{
+	margin-top: 85px;
+	margin-bottom: 85px;
+}
+.Index{
+	margin-bottom:550px;
+	margin-top:-50px;
+}
+.welcome{
+	Position: relative;
+	top: 270px;
+	left: 135px;
+	color: white;
+	font-family:Courier, monospace;
+	font-size: 35px;
+	font-weight: 900;
+	background-color: black;
+	margin-right: 262px;
+}
+.contact{
+	margin-bottom:645px;
+}
+.contact1{
+	margin-bottom: 400px;
+}
+.abouttext{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-indent:40px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+	margin-bottom: 30px
+
+}
+.contacttext{
+	margin-bottom: -10px;
+}
+.contacttext1{
+	color: bold Black;
+	margin-top: 5px;
+	margin-right: 900px;
+	background-color: white;
+}
+.contacttext2{
+	color: white;
+	margin-bottom: 15px;
+	margin-left: 5px;
+}
+.contacttext3{
+	color: white;
+	margin-top: -10px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
+.contacttext11{
+	color:white;
+	margin-top: 5px;
+	margin-right: 900px;
+	background-color: black;
+}
+.contacttext22{
+	color: bold white;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	background-color: white;
+	margin-left: 5px;
+}
+.contacttext33{
+	color: bold white;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	background-color: white;
+	margin-left: 5px;
+}
+footer{
+	border: 1px solid white;
+	background-color: black;
+	margin-top: 0px;
+	margin-bottom: 0;
+	padding-top:;
+	margin-left: -10px;
+	margin-right: -10px;
+}
+.footer1{
+	border: 1px solid black;
+	background-color: white;
+	margin-left: 283px;
+	margin-right: 283px;
+	padding-top:;
+}
+.home-page{
+	background-image: url("main.jpg");
+	background-color: #cccccc;
+	background-size: cover;
+	position: relative;
+	bottom: -100px;
+	margin-top: -100px;
+}
+.new-in{
+	background:url("new-in.jpg");
+	background-color: #cccccc;
+	background-size: cover;
+	margin-top: -100px;
+}
+.about{
+	background:url("about.jpg");
+	background-color: #cccccc;
+	background-size: cover;
+	margin-top: -100px;
+	background-position: center;
+	background-attachment: fixed;
+}
+img {
+	width: 300px;
+}
+
+.columns{
+	width: 495px;
+	display: inline-block;
+	border:;
+	background-color: ;
+	margin-top: 200px
+}
+
+.three{
+	width: 328px;
+	display: inline-block;
+	border: 0px solid black;
+	background-color: ;
+}
+
+#container {
+	background-color: 0;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.whatever {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: #333;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  padding-left: 368px;
+}
+
+nav li {
+  float: left;
+}
+nav {
+    display: block;
+	position: center;
+}
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  position: center;
+}
+
+nav li a:hover {
+  background-color: black;
+}
